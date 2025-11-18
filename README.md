@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ebrahim2355/Dragon-news-full-functional/main/src/assets/ChatGPT%20Image%20Nov%2019%2C%202025%2C%2001_59_38%20AM.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ebrahim2355/Dragon-news-full-functional/main/src/assets/MD.%20Ebrahim%20Ali%20Full%20Stack%20Developer%20%20MERN%20Stack%20%20React%20%20Next.js.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm MD. Ebrahim Ali 👋</h1>
