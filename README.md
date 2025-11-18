@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="[YOUR_BANNER_URL](https://i.ibb.co.com/zT4JByB9/Chat-GPT-Image-Nov-19-2025-01-59-38-AM.png)" alt="Banner" width="100%">
+</p>
 
-<!--
-**ebrahim2355/ebrahim2355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm MD. Ebrahim Ali 👋</h1>
+<h3 align="center">MERN Stack Developer | React | Node.js | JavaScript</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+I'm a passionate MERN Stack developer who enjoys building clean, user-friendly, and scalable web applications.  
+Always curious, always learning — especially about modern frontend and backend technologies.
+
+---
+
+## 🔍 What I’m Doing Now
+- 🌱 Exploring **Next.js & Server Actions**
+- 🛠 Working on **real-world web applications**
+- 🚀 Learning deeper **authentication & secure backend**
+- ⚡ Enhancing UI/UX & application performance
+
+---
+
+## 🛠 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="mailto:web.ebrahimali@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/ebrahim2355">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ebrahim2355&show_icons=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebrahim2355)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim2355&layout=compact)
+
+</div>
+
+---
+
+## 📌 Featured Projects (Pinned)
+👉 Make sure to pin these from GitHub:  
+- **cleanliness-and-issue-reporting-client-portal**  
+- **local-food-lovers-network-client**  
+- **smart-deals-client**
