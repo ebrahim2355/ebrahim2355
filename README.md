@@ -53,6 +53,6 @@ Always curious, always learning — especially about modern frontend and backend
 ---
 
 ## 📌 Featured Projects (Pinned)
-- **zap-shift-client
+- **zap-shift-client**
 - **cleanliness-and-issue-reporting-client-portal**  
 - **local-food-lovers-network-client**  
