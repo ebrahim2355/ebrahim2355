@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00EAFF&center=true&vCenter=true&width=820&height=45&lines=Building+CRM+and+commerce+platforms;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;5+pull+requests+merged+into+Twenty%2C+Medusa+%26+Saleor;I+fix+the+cause%2C+not+the+symptom" alt="Building CRM and commerce platforms — NestJS, Next.js, TypeScript, PostgreSQL — 5 pull requests merged into Twenty, Medusa and Saleor">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00EAFF&center=true&vCenter=true&width=820&height=45&lines=Building+CRM+and+commerce+platforms;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;6+pull+requests+merged+into+Twenty%2C+Medusa+%26+Saleor;I+fix+the+cause%2C+not+the+symptom" alt="Building CRM and commerce platforms — NestJS, Next.js, TypeScript, PostgreSQL — 6 pull requests merged into Twenty, Medusa and Saleor">
 </p>
 
 ---
