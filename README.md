@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00EAFF&center=true&vCenter=true&width=820&height=45&lines=Building+CRM+and+commerce+platforms;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;7+pull+requests+merged+into+Twenty%2C+Medusa+%26+Saleor;I+fix+the+cause%2C+not+the+symptom" alt="Building CRM and commerce platforms — NestJS, Next.js, TypeScript, PostgreSQL — 7 pull requests merged into Twenty, Medusa and Saleor">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00EAFF&center=true&vCenter=true&width=820&height=45&lines=Building+CRM+and+commerce+platforms;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;11+pull+requests+merged+into+Twenty%2C+Medusa+%26+Saleor;I+fix+the+cause%2C+not+the+symptom" alt="Building CRM and commerce platforms — NestJS, Next.js, TypeScript, PostgreSQL — 11 pull requests merged into Twenty, Medusa and Saleor">
 </p>
 
 ---
@@ -39,10 +39,14 @@ I read an unfamiliar codebase until I can explain *why* a bug happens, then fix 
 | **[Twenty](https://github.com/twentyhq/twenty)** `59k+ ★` | The MCP endpoint invented its own progress tokens and streamed notifications no client had requested — one report hit 157 protocol errors in a single session | [#24582](https://github.com/twentyhq/twenty/pull/24582) |
 | **[Medusa](https://github.com/medusajs/medusa)** `36k+ ★` | An unawaited cache write let all four auth providers redirect users before their OAuth state was persisted, and crashed the process on a transient cache error | [#16571](https://github.com/medusajs/medusa/pull/16571) |
 | **[Medusa](https://github.com/medusajs/medusa)** | Clearing the in-memory cache with the wildcard tag never reset its size accounting, so a cache that had once filled up rejected every write on an empty store for the rest of the process | [#16607](https://github.com/medusajs/medusa/pull/16607) |
+| **[Medusa](https://github.com/medusajs/medusa)** | Two workflow rollbacks never awaited the write they performed, so a failed workflow reported its rollback done while the restore was still in flight, and a rollback that failed was lost as an unhandled rejection | [#16573](https://github.com/medusajs/medusa/pull/16573) |
 | **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | A crash across six list views, caused by row selections outliving their rows. Fixed in the grid rather than per view, settling three divergent behaviours across nine lists | [#6873](https://github.com/saleor/saleor-dashboard/pull/6873) |
 | **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | Datagrid rows stopped behaving like links — no open-in-new-tab on right click, and middle click navigated in place, because the row anchor was positioned in document coordinates while the grid reports viewport ones | [#6868](https://github.com/saleor/saleor-dashboard/pull/6868) |
 | **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | The Ctrl+K palette shipped combobox ARIA on an abstract role, so none of it applied — three critical axe-core violations, no visual change to fix | [#6858](https://github.com/saleor/saleor-dashboard/pull/6858) |
 | **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | Discount reward values silently dropped their decimals — `12.55` saved as `12`, with no error shown | [#6860](https://github.com/saleor/saleor-dashboard/pull/6860) |
+| **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | A draft order's finalize errors were read off a stale mutation result, so the missing-address and missing-carrier markers stayed on screen after the data was filled in — open since 2023 | [#6939](https://github.com/saleor/saleor-dashboard/pull/6939) |
+| **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | Drafts made up entirely of digital products warned that the channel could not ship them, a blocker finalizing never checks for an order that needs no shipping — open since 2023 | [#6941](https://github.com/saleor/saleor-dashboard/pull/6941) |
+| **[Saleor Dashboard](https://github.com/saleor/saleor-dashboard)** | A tracked file literally named `*.instructions.md` made every clone and checkout fail on Windows | [#7001](https://github.com/saleor/saleor-dashboard/pull/7001) |
 
 <p align="center">
   <a href="https://ebrahim.dev/open-source"><b>Full write-ups — the bug, the cause, and why each fix was scoped that way →</b></a>
