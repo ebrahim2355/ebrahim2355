@@ -72,7 +72,7 @@ I read an unfamiliar codebase until I can explain *why* a bug happens, then fix 
 
 | Project | What it is | |
 |---|---|---|
-| **CityCare** | City complaint and service request platform for Dhaka — a transactional workflow engine with deadline escalation, live issue maps and Stripe service fees, covered by 600+ automated tests | [Live](https://citycare-frontend-azure.vercel.app) · [Frontend](https://github.com/ebrahim2355/citycare-frontend) · [API](https://github.com/ebrahim2355/citycare-backend) |
+| **CityCare** | City complaint and service request platform for Dhaka — a transactional workflow engine with deadline escalation, live issue maps and card, bKash and Nagad payments, covered by 600+ automated tests | [Live](https://citycare-frontend-azure.vercel.app) · [Frontend](https://github.com/ebrahim2355/citycare-frontend) · [API](https://github.com/ebrahim2355/citycare-backend) |
 | **VELANO Fashion** | Production storefront and admin for a fashion brand — bKash, Nagad and COD payment flows, membership rewards, order tracking | [Live](https://velanobd.com) |
 | **Zyplo** | Team workspace platform — workspace-scoped RBAC, activity analytics, structured documentation | [Live](https://zyplo-six.vercel.app) |
 | **AssetVerse** | HR and asset management across three roles, with Stripe subscriptions and scoped route protection | [Live](https://eb-assetverse.vercel.app) · [Code](https://github.com/ebrahim2355/assetverse-client) |
